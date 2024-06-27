@@ -1,7 +1,7 @@
 ## Athul Kesav here 👋
 I am working on myself to hone my skills in **Web Development**. <br>
-I focus mainly on the Full Stack aspect and the UI design
-Reach me on [LINKEDIN](www.linkedin.com/in/athul-kesav-0b5855292) or Drop an [EMAIL](athulkesav2004@gmail.com)
+I focus mainly on the Full Stack aspect and the UI design <br>
+Reach me on **[LINKEDIN](www.linkedin.com/in/athul-kesav-0b5855292)** or Drop an **[EMAIL](athulkesav2004@gmail.com)**
 <!--
 **Athul-Kesav/Athul-Kesav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
