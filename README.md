@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Athul-Kesav's GitHub | Stats](https://stats.quira.sh/Athul-Kesav/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Athul-Kesav)
+<!--[![Athul-Kesav's GitHub | Stats](https://stats.quira.sh/Athul-Kesav/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Athul-Kesav) -->
